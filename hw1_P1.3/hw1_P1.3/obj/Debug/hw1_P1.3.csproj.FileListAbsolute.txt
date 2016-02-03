@@ -1,0 +1,5 @@
+c:\users\djoker\documents\visual studio 2015\Projects\hw1_P1.3\hw1_P1.3\bin\Debug\hw1_P1.3.exe.config
+c:\users\djoker\documents\visual studio 2015\Projects\hw1_P1.3\hw1_P1.3\bin\Debug\hw1_P1.3.exe
+c:\users\djoker\documents\visual studio 2015\Projects\hw1_P1.3\hw1_P1.3\bin\Debug\hw1_P1.3.pdb
+c:\users\djoker\documents\visual studio 2015\Projects\hw1_P1.3\hw1_P1.3\obj\Debug\hw1_P1.3.exe
+c:\users\djoker\documents\visual studio 2015\Projects\hw1_P1.3\hw1_P1.3\obj\Debug\hw1_P1.3.pdb
