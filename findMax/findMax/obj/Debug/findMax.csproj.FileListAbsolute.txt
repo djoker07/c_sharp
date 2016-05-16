@@ -1,0 +1,5 @@
+c:\users\djoker\documents\visual studio 2015\Projects\findMax\findMax\bin\Debug\findMax.exe.config
+C:\Users\djoker\Documents\Visual Studio 2015\Projects\findMax\findMax\bin\Debug\findMax.exe
+C:\Users\djoker\Documents\Visual Studio 2015\Projects\findMax\findMax\bin\Debug\findMax.pdb
+C:\Users\djoker\Documents\Visual Studio 2015\Projects\findMax\findMax\obj\Debug\findMax.exe
+C:\Users\djoker\Documents\Visual Studio 2015\Projects\findMax\findMax\obj\Debug\findMax.pdb

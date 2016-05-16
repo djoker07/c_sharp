@@ -1,0 +1,6 @@
+c:\users\djoker\documents\visual studio 2015\Projects\mTables\mTables\bin\Debug\mTables.exe.config
+c:\users\djoker\documents\visual studio 2015\Projects\mTables\mTables\bin\Debug\mTables.exe
+c:\users\djoker\documents\visual studio 2015\Projects\mTables\mTables\bin\Debug\mTables.pdb
+c:\users\djoker\documents\visual studio 2015\Projects\mTables\mTables\obj\Debug\mTables.exe
+c:\users\djoker\documents\visual studio 2015\Projects\mTables\mTables\obj\Debug\mTables.pdb
+C:\Users\djoker\Documents\Visual Studio 2015\Projects\mTables\mTables\obj\Debug\mTables.csprojResolveAssemblyReference.cache

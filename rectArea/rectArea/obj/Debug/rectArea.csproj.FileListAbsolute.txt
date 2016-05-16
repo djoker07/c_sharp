@@ -1,0 +1,6 @@
+c:\users\djoker\documents\visual studio 2015\Projects\rectArea\rectArea\bin\Debug\rectArea.exe.config
+c:\users\djoker\documents\visual studio 2015\Projects\rectArea\rectArea\bin\Debug\rectArea.exe
+c:\users\djoker\documents\visual studio 2015\Projects\rectArea\rectArea\bin\Debug\rectArea.pdb
+c:\users\djoker\documents\visual studio 2015\Projects\rectArea\rectArea\obj\Debug\rectArea.csprojResolveAssemblyReference.cache
+c:\users\djoker\documents\visual studio 2015\Projects\rectArea\rectArea\obj\Debug\rectArea.exe
+c:\users\djoker\documents\visual studio 2015\Projects\rectArea\rectArea\obj\Debug\rectArea.pdb
