@@ -1,0 +1,6 @@
+c:\users\chang\documents\visual studio 2015\Projects\HW2_IMS\HW2_IMS\bin\Debug\HW2_IMS.exe.config
+c:\users\chang\documents\visual studio 2015\Projects\HW2_IMS\HW2_IMS\bin\Debug\HW2_IMS.exe
+c:\users\chang\documents\visual studio 2015\Projects\HW2_IMS\HW2_IMS\bin\Debug\HW2_IMS.pdb
+c:\users\chang\documents\visual studio 2015\Projects\HW2_IMS\HW2_IMS\obj\Debug\HW2_IMS.csprojResolveAssemblyReference.cache
+c:\users\chang\documents\visual studio 2015\Projects\HW2_IMS\HW2_IMS\obj\Debug\HW2_IMS.exe
+c:\users\chang\documents\visual studio 2015\Projects\HW2_IMS\HW2_IMS\obj\Debug\HW2_IMS.pdb
