@@ -1,0 +1,2 @@
+C:\Users\chang\documents\visual studio 2015\Projects\Master\Master\Master.WinPhone\Master.WinPhone.csproj;neutral
+C:\Users\chang\documents\visual studio 2015\Projects\Master\Master\Master\Master.csproj;neutral

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Master.EventsList"
+             Title="Master" >
+
+  <StackLayout>
+    <Button Text="Add new" Clicked="AddEvent" />
+    <ListView x:Name="eventList" HasUnevenRows="True" ItemSelected="itemSelected">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <ViewCell.View>
+              <StackLayout Orientation="Vertical" Padding="10">
+                <Label Text="{Binding Name}" FontAttributes="Bold"/>
+                <Label Text="{Binding Description}" FontSize="10" />
+                <Label Text="{Binding Date, StringFormat='{0:MMMM dd, yyyy}'}" FontSize="10"/>
+                <Label Text="{Binding Date, StringFormat='{}{0:hh\\:mm}'}" FontSize="10" />
+              </StackLayout>
+            </ViewCell.View>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+  
+</ContentPage>

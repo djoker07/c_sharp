@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Master.TodoPage"
+             Title="Add New Task">
+
+  <StackLayout VerticalOptions="StartAndExpand" Padding="20">
+
+    <Label Text="Name" />
+    <Entry x:Name="nameEntry" Text="{Binding Name}"/>
+    <Label Text="Description" />
+    <Entry x:Name="notesEntry" Text="{Binding Description}"/>
+    <Label Text="Done" />
+    <Switch x:Name="doneEntry" IsToggled="{Binding Done}"/>
+
+    <Button Text="Save" Clicked="saveClicked"/>
+
+    <Button Text="Delete" Clicked="deleteClicked"/>
+
+    <Button Text="Cancel" Clicked="cancelClicked"/>
+
+  </StackLayout>
+  
+</ContentPage>

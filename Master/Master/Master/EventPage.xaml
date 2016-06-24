@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Master.EventPage"
+             Title="Add New Event">
+
+
+  <StackLayout VerticalOptions="StartAndExpand" Padding="20">
+
+    <Label Text="Name" />
+    <Entry x:Name="nameEntry" Text="{Binding Name}"/>
+    <Label Text="Description" />
+    <Entry x:Name="notesEntry" Text="{Binding Description}"/>
+    <Label Text="Event Date" />
+    <DatePicker VerticalOptions="CenterAndExpand" Date="{Binding Date}" MinimumDate="1/1/2016" MaximumDate="12/31/2050"/>
+    <TimePicker VerticalOptions="CenterAndExpand" Time="{Binding Date}" />
+
+    <Button Text="Save" Clicked="saveClicked"/>
+
+    <Button Text="Delete" Clicked="deleteClicked"/>
+
+    <Button Text="Cancel" Clicked="cancelClicked"/>
+
+  </StackLayout>
+  
+</ContentPage>
